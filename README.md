@@ -1,16 +1,15 @@
 The following images are used in [DrMeir.co](drmeir.co) and in the [DrMeir channel](https://www.youtube.com/channel/UChWUPxwVErp0uON4h6050gw) on YouTube:
 
-* Photo by <a href="https://unsplash.com/@nickmorrison?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Morrison</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-* https://unsplash.com/photos/FHnnjk1Yj7Y
-* https://pixabay.com/illustrations/block-lamp-get-dream-goal-path-1512119/
-* https://pixabay.com/vectors/student-high-school-education-5473769/
-* https://pixabay.com/photos/albert-einstein-portrait-1933340/
-* https://pixabay.com/vectors/pixel-cells-lecture-lecture-hall-3976296/
-* https://pixabay.com/photos/wisdom-books-education-knowledge-3071110/
-* https://pixabay.com/illustrations/road-begin-beginning-draft-concept-1668916/
-* https://pixabay.com/vectors/tree-trunk-leaves-branches-nature-576847/
-* https://he.m.wikipedia.org/wiki/קובץ:Python_logo_and_wordmark.svg
-* https://en.wikiversity.org/wiki/Research_in_programming_Wikidata/Programming_languages
-* https://www.flickr.com/photos/jonathanaquino/2575163468
-* https://commons.wikimedia.org/wiki/File:Csg_tree.png
-* https://freesvg.org/programmer
+* [Photo](https://unsplash.com/photos/FHnnjk1Yj7Y) by <a href="https://unsplash.com/@nickmorrison?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Morrison</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* [Image](https://pixabay.com/illustrations/block-lamp-get-dream-goal-path-1512119/) by <a href="https://pixabay.com/users/kalhh-86169/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1512119">kalhh</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1512119">Pixabay</a>
+* [Image](https://pixabay.com/vectors/student-high-school-education-5473769/) by <a href="https://pixabay.com/users/mahmudal-14319641/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5473769">Mahmud Shoeb</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5473769">Pixabay</a>
+* [Image](https://pixabay.com/photos/albert-einstein-portrait-1933340/) by <a href="https://pixabay.com/users/parentrap-2161438/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1933340">Jackie Ramirez</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1933340">Pixabay</a>
+* [Image](https://pixabay.com/vectors/pixel-cells-lecture-lecture-hall-3976296/) by <a href="https://pixabay.com/users/manfredsteger-1848497/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3976296">Manfred Steger</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3976296">Pixabay</a>
+* [Image](https://pixabay.com/photos/wisdom-books-education-knowledge-3071110/) by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3071110">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3071110">Pixabay</a>
+* [Image](https://pixabay.com/illustrations/road-begin-beginning-draft-concept-1668916/) by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1668916">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1668916">Pixabay</a>
+* [Image](https://pixabay.com/vectors/tree-trunk-leaves-branches-nature-576847/) by <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=576847">OpenClipart-Vectors</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=576847">Pixabay</a>
+* [Image](https://he.m.wikipedia.org/wiki/קובץ:Python_logo_and_wordmark.svg) from [Wikipedia](https://he.m.wikipedia.org)
+* [Image](https://en.wikiversity.org/wiki/Research_in_programming_Wikidata/Programming_languages) from [Wikiversity](https://en.wikiversity.org)
+* [Image](https://www.flickr.com/photos/jonathanaquino/2575163468) from [Flickr](https://www.flickr.com/photos/jonathanaquino/2575163468)
+* [Image](https://commons.wikimedia.org/wiki/File:Csg_tree.png) from [Wikimedia](https://commons.wikimedia.org)
+* [Image](https://freesvg.org/programmer) from [FreeSVG](https://freesvg.org)
