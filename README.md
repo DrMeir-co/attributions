@@ -1,5 +1,6 @@
-The following images are used in DrMeir.co and in the DrMeir channel on YouTube:
+The following images are used in [DrMeir.co](drmeir.co) and in the [DrMeir channel](https://www.youtube.com/channel/UChWUPxwVErp0uON4h6050gw) on YouTube:
 
+* Photo by <a href="https://unsplash.com/@nickmorrison?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Morrison</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 * https://unsplash.com/photos/FHnnjk1Yj7Y
 * https://pixabay.com/illustrations/block-lamp-get-dream-goal-path-1512119/
 * https://pixabay.com/vectors/student-high-school-education-5473769/
